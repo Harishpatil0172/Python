@@ -1,6 +1,9 @@
-def quot_rem(num1,num2):
-    q=round(num1/num2,2)
-    r=round(num1%num2,2)
-    return q,r
-
-quot_rem(25,4)
+### @4 Even or Odd
+def even_odd(num):
+    if num%2==0:
+        return('Even')
+    else:
+        return('Odd')
+    
+    even_odd(5)
+    even_odd(4)
