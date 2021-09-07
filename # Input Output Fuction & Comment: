@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled10.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOctsg9HAWiCMEHBvKsT+UN",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Harishpatil0172/Python/blob/main/%23%20Input%20Output%20Fuction%20%26%20Comment%3A\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "FAc2tiak8l2V"
+      },
+      "source": [
+        "# Input Output Fuction & Comment:"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wZJL450-7_kB",
+        "outputId": "7d0d07fa-c004-4333-dbd1-525fdb1de48e"
+      },
+      "source": [
+        "Name=input(\"Enter the name \")\n",
+        "print(\"Welcome\")\n",
+        "print(\"Hello,\",Name)"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter the name Harish\n",
+            "Welcome\n",
+            "Hello, Harish\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
